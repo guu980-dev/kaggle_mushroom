@@ -1,6 +1,7 @@
 .venv
 data
 settings.json
-submission_2.csv
-submission.csv
+submission
 playground-series-s4e8
+feature_importance
+.DS_store
