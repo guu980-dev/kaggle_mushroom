@@ -4,3 +4,4 @@ settings.json
 pred
 result
 AutogluonModels
+.DS_Store
